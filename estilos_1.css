@@ -1,0 +1,25 @@
+body
+{
+	background: #EFEFEF;
+	font-family: Arial;
+	font-size: 16px;
+	margin: 0;
+}
+header
+{
+	background: #434343;
+	margin: 0;
+	padding: 0.5em;
+}
+header #avatar img
+{
+	width: 50px;
+}
+header #logo img
+{
+	width: 80px;
+}
+header h1
+{
+	font-size: 20px;
+}

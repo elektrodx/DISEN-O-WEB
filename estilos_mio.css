@@ -1,0 +1,75 @@
+body
+{
+	background: #EFEFEF;
+	font-family: Arial;
+	font-size: 16px;
+	margin: 0;
+}
+header
+{
+	background: #434343;
+	margin: 0;
+	padding: 0.5em;
+}
+header figure, header h1
+{
+	display: inline-block;
+	vertical-align: top;
+}
+header h1
+{
+	color: white;
+	font-weight: normal;
+	margin: 0.5em 0 0 0.5em;
+	width: 60%;
+
+}
+header #avatar
+{
+	float: right;
+	margin: 1em 1em 0 0;
+}
+header #avatar figcaption
+{
+	background: #22BCE0;
+	float: right;
+	height: 50px;
+	padding: 0 2px;
+}
+header #avatar img
+{
+	float: left;
+	width: 50px;
+}
+header #logo img
+{
+	width: 80px;
+}
+header h1
+{
+	font-size: 20px;
+}
+nav
+{
+	background: #878787;
+	font-size: 0.9em;
+	margin: 0;
+}
+nav ul
+{
+	color: white;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+nav ul li
+{
+	display: inline-block;
+	padding: 0.5em 0.5em 0.5em 0;
+
+}
+nav ul	#flechita_nav
+{
+	background: #22BCE0;
+		
+}
